@@ -1,0 +1,104 @@
+{
+  "neighborhoods": [
+    {
+      "name": "Downtown",
+      "coords": [-89.384, 43.074],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176246/WI/Madison/Downtown",
+        "zillow": "https://www.zillow.com/madison-wi/downtown/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Downtown_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/downtown/"
+      }
+    },
+    {
+      "name": "Tenney-Lapham",
+      "coords": [-89.375, 43.087],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176254/WI/Madison/Tenney-Lapham",
+        "zillow": "https://www.zillow.com/madison-wi/tenney-lapham/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Tenney-Lapham_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/tenney-lapham/"
+      }
+    },
+    {
+      "name": "Atwood",
+      "coords": [-89.35, 43.08],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176240/WI/Madison/Schenk-Atwood",
+        "zillow": "https://www.zillow.com/madison-wi/atwood/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Schenk-Atwood_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/atwood/"
+      }
+    },
+    {
+      "name": "Dudgeon-Monroe",
+      "coords": [-89.42, 43.058],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176248/WI/Madison/Dudgeon-Monroe",
+        "zillow": "https://www.zillow.com/madison-wi/dudgeon-monroe/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Dudgeon-Monroe_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/dudgeon-monroe/"
+      }
+    },
+    {
+      "name": "Vilas",
+      "coords": [-89.40, 43.06],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176256/WI/Madison/Vilas",
+        "zillow": "https://www.zillow.com/madison-wi/vilas/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Vilas_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/vilas/"
+      }
+    },
+    {
+      "name": "Nakoma",
+      "coords": [-89.44, 43.04],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176252/WI/Madison/Nakoma",
+        "zillow": "https://www.zillow.com/madison-wi/nakoma/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Nakoma_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/nakoma/"
+      }
+    },
+    {
+      "name": "Hilldale",
+      "coords": [-89.46, 43.075],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176250/WI/Madison/Hilldale",
+        "zillow": "https://www.zillow.com/madison-wi/hilldale/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Hilldale_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/hilldale/"
+      }
+    },
+    {
+      "name": "Eastmorland",
+      "coords": [-89.32, 43.09],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176247/WI/Madison/Eastmorland",
+        "zillow": "https://www.zillow.com/madison-wi/eastmorland/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Eastmorland_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/eastmorland/"
+      }
+    },
+    {
+      "name": "Westmorland",
+      "coords": [-89.45, 43.05],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176257/WI/Madison/Westmorland",
+        "zillow": "https://www.zillow.com/madison-wi/westmorland/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Westmorland_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/westmorland/"
+      }
+    },
+    {
+      "name": "Capitol East",
+      "coords": [-89.37, 43.08],
+      "links": {
+        "redfin": "https://www.redfin.com/neighborhood/176258/WI/Madison/Capitol-East",
+        "zillow": "https://www.zillow.com/madison-wi/capitol-east/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Capitol-East_Madison_WI",
+        "homes": "https://www.homes.com/madison-wi/capitol-east/"
+      }
+    }
+  ]
+}
