@@ -1,0 +1,1864 @@
+{
+  "neighborhoods": [
+    {
+      "name": "Atwood",
+      "coords": [
+        -89.3433421,
+        43.0936497
+      ],
+      "price": 560550.0,
+      "links": {
+        "zillow": "https://www.zillow.com/atwood-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Atwood_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Atwood-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/atwood-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/atwood-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Atwood_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Atwood-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/atwood-neighborhood/"
+      }
+    },
+    {
+      "name": "Arbor Hills",
+      "coords": [
+        -89.43047729999999,
+        43.0290077
+      ],
+      "price": 519390.0,
+      "links": {
+        "zillow": "https://www.zillow.com/arbor-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Arbor-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Arbor-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/arbor-hills-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/arbor-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Arbor-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Arbor-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/arbor-hills-neighborhood/"
+      }
+    },
+    {
+      "name": "Bay Creek",
+      "coords": [
+        -89.39142509999999,
+        43.0543013
+      ],
+      "price": 487400.0,
+      "links": {
+        "zillow": "https://www.zillow.com/bay-creek-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Bay-Creek_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Bay-Creek-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/bay-creek-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/bay-creek-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Bay-Creek_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Bay-Creek-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/bay-creek-neighborhood/"
+      }
+    },
+    {
+      "name": "Cherokee Park",
+      "coords": [
+        -89.3741338,
+        43.1585692
+      ],
+      "price": 375000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/cherokee-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cherokee-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cherokee-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cherokee-park-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/cherokee-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cherokee-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cherokee-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cherokee-park-neighborhood/"
+      }
+    },
+    {
+      "name": "Downtown-Capitol",
+      "coords": [
+        -89.3853381,
+        43.073973
+      ],
+      "price": 519000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/downtown-capitol-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Downtown-Capitol_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Downtown-Capitol-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/downtown-capitol-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/downtown-capitol-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Downtown-Capitol_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Downtown-Capitol-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/downtown-capitol-neighborhood/"
+      }
+    },
+    {
+      "name": "Dudgeon-Monroe",
+      "coords": [
+        -89.4245627,
+        43.0593267
+      ],
+      "price": 708000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/dudgeon-monroe-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Dudgeon-Monroe_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Dudgeon-Monroe-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/dudgeon-monroe-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/dudgeon-monroe-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Dudgeon-Monroe_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Dudgeon-Monroe-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/dudgeon-monroe-neighborhood/"
+      }
+    },
+    {
+      "name": "East Madison",
+      "coords": [
+        -89.2932827,
+        43.0934037
+      ],
+      "price": 424000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/east-madison-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/East-Madison_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/East-Madison-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/east-madison-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/east-madison-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/East-Madison_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/East-Madison-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/east-madison-neighborhood/"
+      }
+    },
+    {
+      "name": "Eastmorland",
+      "coords": [
+        -89.3235694,
+        43.0982762
+      ],
+      "price": 367000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/eastmorland-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Eastmorland_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Eastmorland-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/eastmorland-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/eastmorland-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Eastmorland_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Eastmorland-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/eastmorland-neighborhood/"
+      }
+    },
+    {
+      "name": "Eken Park",
+      "coords": [
+        -89.3487791,
+        43.1074417
+      ],
+      "price": 335000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/eken-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Eken-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Eken-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/eken-park-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/eken-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Eken-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Eken-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/eken-park-neighborhood/"
+      }
+    },
+    {
+      "name": "Emerson East",
+      "coords": [
+        -89.3547049,
+        43.0989875
+      ],
+      "price": 395000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/emerson-east-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Emerson-East_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Emerson-East-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/emerson-east-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/emerson-east-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Emerson-East_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Emerson-East-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/emerson-east-neighborhood/"
+      }
+    },
+    {
+      "name": "Faircrest",
+      "coords": [
+        -89.4832195,
+        43.0645944
+      ],
+      "price": 647000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/faircrest-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Faircrest_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Faircrest-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/faircrest-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/faircrest-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Faircrest_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Faircrest-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/faircrest-neighborhood/"
+      }
+    },
+    {
+      "name": "Greenbush",
+      "coords": [
+        -89.4056303,
+        43.0640843
+      ],
+      "price": 514000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/greenbush-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Greenbush_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Greenbush-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/greenbush-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/greenbush-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Greenbush_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Greenbush-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/greenbush-neighborhood/"
+      }
+    },
+    {
+      "name": "Greentree",
+      "coords": [
+        -89.4917,
+        43.0437015
+      ],
+      "price": 476000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/greentree-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Greentree_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Greentree-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/greentree-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/greentree-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Greentree_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Greentree-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/greentree-neighborhood/"
+      }
+    },
+    {
+      "name": "Marquette",
+      "coords": [
+        -89.3645685,
+        43.0830466
+      ],
+      "price": 569200.0,
+      "links": {
+        "zillow": "https://www.zillow.com/marquette-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Marquette_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Marquette-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/marquette-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/marquette-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Marquette_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Marquette-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/marquette-neighborhood/"
+      }
+    },
+    {
+      "name": "Meadowood",
+      "coords": [
+        -89.4783021,
+        43.0290825
+      ],
+      "price": 392000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/meadowood-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Meadowood_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Meadowood-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/meadowood-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/meadowood-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Meadowood_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Meadowood-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/meadowood-neighborhood/"
+      }
+    },
+    {
+      "name": "Nakoma",
+      "coords": [
+        -89.4438072,
+        43.043975
+      ],
+      "price": 851000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/nakoma-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Nakoma_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Nakoma-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/nakoma-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/nakoma-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Nakoma_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Nakoma-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/nakoma-neighborhood/"
+      }
+    },
+    {
+      "name": "North Lake Mendota",
+      "coords": [
+        -89.4020795,
+        43.1380328
+      ],
+      "price": 515000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/north-lake-mendota-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/North-Lake-Mendota_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/North-Lake-Mendota-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/north-lake-mendota-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/north-lake-mendota-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/North-Lake-Mendota_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/North-Lake-Mendota-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/north-lake-mendota-neighborhood/"
+      }
+    },
+    {
+      "name": "Mendota Hills",
+      "coords": [
+        -89.37899139999999,
+        43.1324574
+      ],
+      "price": 430000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/mendota-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Mendota-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Mendota-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mendota-hills-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/mendota-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Mendota-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Mendota-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mendota-hills-neighborhood/"
+      }
+    },
+    {
+      "name": "Regent",
+      "coords": [
+        -89.4228719,
+        43.0679922
+      ],
+      "price": 744000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/regent-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Regent_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Regent-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/regent-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/regent-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Regent_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Regent-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/regent-neighborhood/"
+      }
+    },
+    {
+      "name": "Sherman Village",
+      "coords": [
+        -89.37366139999999,
+        43.1451509
+      ],
+      "price": 383000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/sherman-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sherman-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sherman-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sherman-village-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/sherman-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sherman-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sherman-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sherman-village-neighborhood/"
+      }
+    },
+    {
+      "name": "Tenney-Lapham",
+      "coords": [
+        -89.3712924,
+        43.0869519
+      ],
+      "price": 516000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/tenney-lapham-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Tenney-Lapham_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Tenney-Lapham-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/tenney-lapham-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/tenney-lapham-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Tenney-Lapham_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Tenney-Lapham-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/tenney-lapham-neighborhood/"
+      }
+    },
+    {
+      "name": "University Hill Farms",
+      "coords": [
+        -89.4666577,
+        43.0651752
+      ],
+      "price": 625000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/university-hill-farms-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/University-Hill-Farms_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/University-Hill-Farms-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/university-hill-farms-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/university-hill-farms-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/University-Hill-Farms_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/University-Hill-Farms-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/university-hill-farms-neighborhood/"
+      }
+    },
+    {
+      "name": "Vilas",
+      "coords": [
+        -89.4140588,
+        43.0626477
+      ],
+      "price": 818000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/vilas-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Vilas_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Vilas-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/vilas-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/vilas-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Vilas_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Vilas-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/vilas-neighborhood/"
+      }
+    },
+    {
+      "name": "Westmorland",
+      "coords": [
+        -89.44821569999999,
+        43.0545882
+      ],
+      "price": 561000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/westmorland-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Westmorland_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Westmorland-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/westmorland-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/westmorland-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Westmorland_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Westmorland-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/westmorland-neighborhood/"
+      }
+    },
+    {
+      "name": "Belleville",
+      "coords": [
+        -89.5381766,
+        42.8597241
+      ],
+      "price": 410000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/belleville-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Belleville_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Belleville-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/belleville-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/belleville-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Belleville_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Belleville-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/belleville-neighborhood/"
+      }
+    },
+    {
+      "name": "Cross Plains",
+      "coords": [
+        -89.6556777,
+        43.11443850000001
+      ],
+      "price": 466000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/cross-plains-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cross-Plains_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cross-Plains-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cross-plains-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/cross-plains-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cross-Plains_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cross-Plains-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cross-plains-neighborhood/"
+      }
+    },
+    {
+      "name": "Cottage Grove",
+      "coords": [
+        -89.19955929999999,
+        43.0761082
+      ],
+      "price": 476000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/cottage-grove-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cottage-Grove_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cottage-Grove-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cottage-grove-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/cottage-grove-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cottage-Grove_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cottage-Grove-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cottage-grove-neighborhood/"
+      }
+    },
+    {
+      "name": "Deerfield",
+      "coords": [
+        -89.0756675,
+        43.05194340000001
+      ],
+      "price": 379000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/deerfield-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Deerfield_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Deerfield-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/deerfield-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/deerfield-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Deerfield_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Deerfield-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/deerfield-neighborhood/"
+      }
+    },
+    {
+      "name": "DeForest",
+      "coords": [
+        -89.343727,
+        43.2477685
+      ],
+      "price": 423000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/deforest-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/DeForest_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/DeForest-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/deforest-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/deforest-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/DeForest_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/DeForest-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/deforest-neighborhood/"
+      }
+    },
+    {
+      "name": "Fitchburg",
+      "coords": [
+        -89.424092,
+        43.0023146
+      ],
+      "price": 503000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/fitchburg-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Fitchburg_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Fitchburg-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/fitchburg-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/fitchburg-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Fitchburg_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Fitchburg-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/fitchburg-neighborhood/"
+      }
+    },
+    {
+      "name": "Maple Bluff",
+      "coords": [
+        -89.3795628,
+        43.1183282
+      ],
+      "price": 981900.0,
+      "links": {
+        "zillow": "https://www.zillow.com/maple-bluff-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Maple-Bluff_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Maple-Bluff-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/maple-bluff-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/maple-bluff-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Maple-Bluff_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Maple-Bluff-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/maple-bluff-neighborhood/"
+      }
+    },
+    {
+      "name": "Marshall",
+      "coords": [
+        -89.0667775,
+        43.1683286
+      ],
+      "price": 386000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/marshall-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Marshall_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Marshall-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/marshall-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/marshall-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Marshall_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Marshall-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/marshall-neighborhood/"
+      }
+    },
+    {
+      "name": "Mazomanie",
+      "coords": [
+        -89.7948452,
+        43.1766586
+      ],
+      "price": 353000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/mazomanie-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Mazomanie_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Mazomanie-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mazomanie-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/mazomanie-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Mazomanie_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Mazomanie-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mazomanie-neighborhood/"
+      }
+    },
+    {
+      "name": "McFarland",
+      "coords": [
+        -89.2898397,
+        43.0124984
+      ],
+      "price": 473000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/mcfarland-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/McFarland_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/McFarland-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mcfarland-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/mcfarland-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/McFarland_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/McFarland-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mcfarland-neighborhood/"
+      }
+    },
+    {
+      "name": "Middleton",
+      "coords": [
+        -89.5042876,
+        43.09721740000001
+      ],
+      "price": 596000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/middleton-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Middleton_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Middleton-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/middleton-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/middleton-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Middleton_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Middleton-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/middleton-neighborhood/"
+      }
+    },
+    {
+      "name": "Monona",
+      "coords": [
+        -89.3335334,
+        43.0623172
+      ],
+      "price": 473000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/monona-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Monona_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Monona-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/monona-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/monona-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Monona_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Monona-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/monona-neighborhood/"
+      }
+    },
+    {
+      "name": "Mount Horeb",
+      "coords": [
+        -89.7384562,
+        43.008608
+      ],
+      "price": 453000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/mount-horeb-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Mount-Horeb_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Mount-Horeb-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mount-horeb-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/mount-horeb-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Mount-Horeb_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Mount-Horeb-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/mount-horeb-neighborhood/"
+      }
+    },
+    {
+      "name": "New Glarus",
+      "coords": [
+        -89.6351217,
+        42.8144473
+      ],
+      "price": 409000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/new-glarus-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/New-Glarus_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/New-Glarus-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/new-glarus-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/new-glarus-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/New-Glarus_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/New-Glarus-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/new-glarus-neighborhood/"
+      }
+    },
+    {
+      "name": "Oregon",
+      "coords": [
+        -89.38456339999999,
+        42.9261116
+      ],
+      "price": 479000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/oregon-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Oregon_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Oregon-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/oregon-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/oregon-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Oregon_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Oregon-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/oregon-neighborhood/"
+      }
+    },
+    {
+      "name": "Sauk City",
+      "coords": [
+        -89.722067,
+        43.2708225
+      ],
+      "price": 368000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/sauk-city-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sauk-City_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sauk-City-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sauk-city-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/sauk-city-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sauk-City_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sauk-City-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sauk-city-neighborhood/"
+      }
+    },
+    {
+      "name": "Prairie du Sac",
+      "coords": [
+        -89.7240116,
+        43.2869331
+      ],
+      "price": 406000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/prairie-du-sac-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Prairie-du-Sac_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Prairie-du-Sac-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/prairie-du-sac-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/prairie-du-sac-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Prairie-du-Sac_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Prairie-du-Sac-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/prairie-du-sac-neighborhood/"
+      }
+    },
+    {
+      "name": "Shorewood Hills",
+      "coords": [
+        -89.4456756,
+        43.0774958
+      ],
+      "price": 1145600.0,
+      "links": {
+        "zillow": "https://www.zillow.com/shorewood-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Shorewood-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Shorewood-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/shorewood-hills-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/shorewood-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Shorewood-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Shorewood-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/shorewood-hills-neighborhood/"
+      }
+    },
+    {
+      "name": "Sun Prairie",
+      "coords": [
+        -89.2137254,
+        43.1836046
+      ],
+      "price": 442000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/sun-prairie-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sun-Prairie_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sun-Prairie-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sun-prairie-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/sun-prairie-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sun-Prairie_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sun-Prairie-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sun-prairie-neighborhood/"
+      }
+    },
+    {
+      "name": "Verona",
+      "coords": [
+        -89.53317729999999,
+        42.990831
+      ],
+      "price": 578000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/verona-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Verona_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Verona-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/verona-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/verona-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Verona_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Verona-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/verona-neighborhood/"
+      }
+    },
+    {
+      "name": "Waunakee",
+      "coords": [
+        -89.45567489999999,
+        43.1919373
+      ],
+      "price": 578000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/waunakee-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Waunakee_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Waunakee-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/waunakee-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/waunakee-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Waunakee_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Waunakee-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/waunakee-neighborhood/"
+      }
+    },
+    {
+      "name": "Windsor",
+      "coords": [
+        -89.3432898,
+        43.216395
+      ],
+      "price": 501000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/windsor-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Windsor_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Windsor-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/windsor-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/windsor-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Windsor_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Windsor-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/windsor-neighborhood/"
+      }
+    },
+    {
+      "name": "Sunset Village",
+      "coords": [
+        -89.4470537,
+        43.0696431
+      ],
+      "price": 539000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/sunset-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sunset-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sunset-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sunset-village-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/sunset-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sunset-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sunset-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sunset-village-neighborhood/"
+      }
+    },
+    {
+      "name": "Stonefield",
+      "coords": [
+        -89.4970501,
+        43.0870716
+      ],
+      "price": 947000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/stonefield-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Stonefield_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Stonefield-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/stonefield-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/stonefield-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Stonefield_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Stonefield-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/stonefield-neighborhood/"
+      }
+    },
+    {
+      "name": "Fox Ridge",
+      "coords": [
+        -89.5146024,
+        43.0885446
+      ],
+      "price": 635000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/fox-ridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Fox-Ridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Fox-Ridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/fox-ridge-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/fox-ridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Fox-Ridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Fox-Ridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/fox-ridge-neighborhood/"
+      }
+    },
+    {
+      "name": "Spring Harbor",
+      "coords": [
+        -89.4711292,
+        43.0804268
+      ],
+      "price": 3730000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/spring-harbor-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Spring-Harbor_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Spring-Harbor-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/spring-harbor-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/spring-harbor-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Spring-Harbor_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Spring-Harbor-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/spring-harbor-neighborhood/"
+      }
+    },
+    {
+      "name": "Wexford Village",
+      "coords": [
+        -89.5123279,
+        43.0686399
+      ],
+      "price": 543000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/wexford-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Wexford-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Wexford-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/wexford-village-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/wexford-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Wexford-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Wexford-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/wexford-village-neighborhood/"
+      }
+    },
+    {
+      "name": "Glen Oak Hills",
+      "coords": [
+        -89.4735602,
+        43.0702387
+      ],
+      "price": 439000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/glen-oak-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Glen-Oak-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Glen-Oak-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/glen-oak-hills-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/glen-oak-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Glen-Oak-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Glen-Oak-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/glen-oak-hills-neighborhood/"
+      }
+    },
+    {
+      "name": "Sunset Hills",
+      "coords": [
+        -89.4368247,
+        43.0646268
+      ],
+      "price": 695000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/sunset-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sunset-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sunset-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sunset-hills-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/sunset-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sunset-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sunset-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sunset-hills-neighborhood/"
+      }
+    },
+    {
+      "name": "Waunona",
+      "coords": [
+        -89.358633,
+        43.0466455
+      ],
+      "price": 411000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/waunona-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Waunona_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Waunona-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/waunona-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/waunona-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Waunona_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Waunona-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/waunona-neighborhood/"
+      }
+    },
+    {
+      "name": "Midvale Heights",
+      "coords": [
+        -89.463304,
+        43.0531554
+      ],
+      "price": 520000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/midvale-heights-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Midvale-Heights_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Midvale-Heights-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/midvale-heights-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/midvale-heights-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Midvale-Heights_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Midvale-Heights-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/midvale-heights-neighborhood/"
+      }
+    },
+    {
+      "name": "Parkwood Hills",
+      "coords": [
+        -89.4952759,
+        43.0712783
+      ],
+      "price": 709000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/parkwood-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Parkwood-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Parkwood-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/parkwood-hills-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/parkwood-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Parkwood-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Parkwood-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/parkwood-hills-neighborhood/"
+      }
+    },
+    {
+      "name": "Orchard Ridge",
+      "coords": [
+        -89.4721445,
+        43.0348823
+      ],
+      "price": 468000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/orchard-ridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Orchard-Ridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Orchard-Ridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/orchard-ridge-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/orchard-ridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Orchard-Ridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Orchard-Ridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/orchard-ridge-neighborhood/"
+      }
+    },
+    {
+      "name": "Dunns Marsh",
+      "coords": [
+        -89.4497427,
+        43.0311494
+      ],
+      "price": 326842.0,
+      "links": {
+        "zillow": "https://www.zillow.com/dunns-marsh-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Dunns-Marsh_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Dunns-Marsh-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/dunns-marsh-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/dunns-marsh-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Dunns-Marsh_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Dunns-Marsh-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/dunns-marsh-neighborhood/"
+      }
+    },
+    {
+      "name": "Stone Meadows",
+      "coords": [
+        -89.4915852,
+        43.0119163
+      ],
+      "price": 455000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/stone-meadows-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Stone-Meadows_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Stone-Meadows-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/stone-meadows-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/stone-meadows-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Stone-Meadows_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Stone-Meadows-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/stone-meadows-neighborhood/"
+      }
+    },
+    {
+      "name": "Country Grove",
+      "coords": [
+        -89.5095238,
+        43.0129205
+      ],
+      "price": 638000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/country-grove-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Country-Grove_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Country-Grove-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/country-grove-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/country-grove-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Country-Grove_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Country-Grove-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/country-grove-neighborhood/"
+      }
+    },
+    {
+      "name": "Glacier Ridge",
+      "coords": [
+        -89.5108113,
+        43.0046357
+      ],
+      "price": 489000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/glacier-ridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Glacier-Ridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Glacier-Ridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/glacier-ridge-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/glacier-ridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Glacier-Ridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Glacier-Ridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/glacier-ridge-neighborhood/"
+      }
+    },
+    {
+      "name": "Westhaven Trails",
+      "coords": [
+        -89.5075497,
+        43.025973
+      ],
+      "price": 440000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/westhaven-trails-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Westhaven-Trails_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Westhaven-Trails-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/westhaven-trails-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/westhaven-trails-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Westhaven-Trails_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Westhaven-Trails-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/westhaven-trails-neighborhood/"
+      }
+    },
+    {
+      "name": "West Middleton",
+      "coords": [
+        -89.5561004,
+        43.0830621
+      ],
+      "price": 435500.0,
+      "links": {
+        "zillow": "https://www.zillow.com/west-middleton-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/West-Middleton_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/West-Middleton-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/west-middleton-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/west-middleton-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/West-Middleton_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/West-Middleton-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/west-middleton-neighborhood/"
+      }
+    },
+    {
+      "name": "Sauk Creek",
+      "coords": [
+        -89.5168883,
+        43.068526
+      ],
+      "price": 550000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/sauk-creek-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sauk-Creek_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sauk-Creek-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sauk-creek-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/sauk-creek-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sauk-Creek_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sauk-Creek-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sauk-creek-neighborhood/"
+      }
+    },
+    {
+      "name": "Tamarack Trails",
+      "coords": [
+        -89.5101077,
+        43.0650772
+      ],
+      "price": 376000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/tamarack-trails-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Tamarack-Trails_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Tamarack-Trails-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/tamarack-trails-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/tamarack-trails-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Tamarack-Trails_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Tamarack-Trails-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/tamarack-trails-neighborhood/"
+      }
+    },
+    {
+      "name": "Prairie Hills",
+      "coords": [
+        -89.4936282,
+        43.0307674
+      ],
+      "price": 406000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/prairie-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Prairie-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Prairie-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/prairie-hills-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/prairie-hills-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Prairie-Hills_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Prairie-Hills-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/prairie-hills-neighborhood/"
+      }
+    },
+    {
+      "name": "Maple Prairie",
+      "coords": [
+        -89.4900233,
+        43.0195357
+      ],
+      "price": 463400.0,
+      "links": {
+        "zillow": "https://www.zillow.com/maple-prairie-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Maple-Prairie_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Maple-Prairie-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/maple-prairie-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/maple-prairie-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Maple-Prairie_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Maple-Prairie-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/maple-prairie-neighborhood/"
+      }
+    },
+    {
+      "name": "Burr Oaks",
+      "coords": [
+        -89.3991613,
+        43.0396377
+      ],
+      "price": 285000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/burr-oaks-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Burr-Oaks_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Burr-Oaks-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/burr-oaks-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/burr-oaks-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Burr-Oaks_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Burr-Oaks-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/burr-oaks-neighborhood/"
+      }
+    },
+    {
+      "name": "Brams Addition",
+      "coords": [
+        -89.3906641,
+        43.0466633
+      ],
+      "price": 300600.0,
+      "links": {
+        "zillow": "https://www.zillow.com/brams-addition-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Brams-Addition_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Brams-Addition-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/brams-addition-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/brams-addition-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Brams-Addition_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Brams-Addition-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/brams-addition-neighborhood/"
+      }
+    },
+    {
+      "name": "Moorland-Rimrock",
+      "coords": [
+        -89.3750959,
+        43.0339481
+      ],
+      "price": 361725.0,
+      "links": {
+        "zillow": "https://www.zillow.com/moorland-rimrock-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Moorland-Rimrock_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Moorland-Rimrock-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/moorland-rimrock-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/moorland-rimrock-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Moorland-Rimrock_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Moorland-Rimrock-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/moorland-rimrock-neighborhood/"
+      }
+    },
+    {
+      "name": "Glendale",
+      "coords": [
+        -89.3162489,
+        43.0640984
+      ],
+      "price": 363400.0,
+      "links": {
+        "zillow": "https://www.zillow.com/glendale-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Glendale_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Glendale-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/glendale-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/glendale-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Glendale_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Glendale-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/glendale-neighborhood/"
+      }
+    },
+    {
+      "name": "East Buckeye",
+      "coords": [
+        -89.2968511,
+        43.0609629
+      ],
+      "price": 433000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/east-buckeye-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/East-Buckeye_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/East-Buckeye-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/east-buckeye-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/east-buckeye-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/East-Buckeye_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/East-Buckeye-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/east-buckeye-neighborhood/"
+      }
+    },
+    {
+      "name": "Lake Edge",
+      "coords": [
+        -89.3179857,
+        43.0785263
+      ],
+      "price": 374000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/lake-edge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lake-Edge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lake-Edge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lake-edge-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/lake-edge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lake-Edge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lake-Edge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lake-edge-neighborhood/"
+      }
+    },
+    {
+      "name": "Elvehjam",
+      "coords": [
+        -89.2952405,
+        43.0794667
+      ],
+      "price": 389375.0,
+      "links": {
+        "zillow": "https://www.zillow.com/elvehjam-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Elvehjam_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Elvehjam-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/elvehjam-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/elvehjam-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Elvehjam_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Elvehjam-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/elvehjam-neighborhood/"
+      }
+    },
+    {
+      "name": "Rolling Meadows",
+      "coords": [
+        -89.3090593,
+        43.0932573
+      ],
+      "price": 376000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/rolling-meadows-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Rolling-Meadows_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Rolling-Meadows-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/rolling-meadows-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/rolling-meadows-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Rolling-Meadows_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Rolling-Meadows-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/rolling-meadows-neighborhood/"
+      }
+    },
+    {
+      "name": "Hiestand",
+      "coords": [
+        -89.3046819,
+        43.1021568
+      ],
+      "price": 362900.0,
+      "links": {
+        "zillow": "https://www.zillow.com/hiestand-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Hiestand_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Hiestand-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/hiestand-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/hiestand-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Hiestand_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Hiestand-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/hiestand-neighborhood/"
+      }
+    },
+    {
+      "name": "Worthington Park",
+      "coords": [
+        -89.3360101,
+        43.1036608
+      ],
+      "price": 314000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/worthington-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Worthington-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Worthington-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/worthington-park-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/worthington-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Worthington-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Worthington-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/worthington-park-neighborhood/"
+      }
+    },
+    {
+      "name": "Carpenter-Ridgeway",
+      "coords": [
+        -89.3356239,
+        43.1114623
+      ],
+      "price": 330600.0,
+      "links": {
+        "zillow": "https://www.zillow.com/carpenter-ridgeway-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Carpenter-Ridgeway_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Carpenter-Ridgeway-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/carpenter-ridgeway-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/carpenter-ridgeway-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Carpenter-Ridgeway_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Carpenter-Ridgeway-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/carpenter-ridgeway-neighborhood/"
+      }
+    },
+    {
+      "name": "Sherman",
+      "coords": [
+        -89.3596565,
+        43.1174146
+      ],
+      "price": 322400.0,
+      "links": {
+        "zillow": "https://www.zillow.com/sherman-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sherman_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sherman-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sherman-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/sherman-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Sherman_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Sherman-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/sherman-neighborhood/"
+      }
+    },
+    {
+      "name": "Berkeley Oaks",
+      "coords": [
+        -89.3557083,
+        43.132324
+      ],
+      "price": 313000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/berkeley-oaks-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Berkeley-Oaks_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Berkeley-Oaks-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/berkeley-oaks-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/berkeley-oaks-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Berkeley-Oaks_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Berkeley-Oaks-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/berkeley-oaks-neighborhood/"
+      }
+    },
+    {
+      "name": "Brentwood Village",
+      "coords": [
+        -89.3672096,
+        43.1197327
+      ],
+      "price": 405450.0,
+      "links": {
+        "zillow": "https://www.zillow.com/brentwood-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Brentwood-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Brentwood-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/brentwood-village-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/brentwood-village-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Brentwood-Village_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Brentwood-Village-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/brentwood-village-neighborhood/"
+      }
+    },
+    {
+      "name": "Lerdahl Park",
+      "coords": [
+        -89.3880664,
+        43.1321988
+      ],
+      "price": 467000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/lerdahl-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lerdahl-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lerdahl-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lerdahl-park-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/lerdahl-park-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lerdahl-Park_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lerdahl-Park-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lerdahl-park-neighborhood/"
+      }
+    },
+    {
+      "name": "Lake View Hill",
+      "coords": [
+        -89.3725311,
+        43.1387127
+      ],
+      "price": 384000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/lake-view-hill-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lake-View-Hill_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lake-View-Hill-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lake-view-hill-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/lake-view-hill-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lake-View-Hill_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lake-View-Hill-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lake-view-hill-neighborhood/"
+      }
+    },
+    {
+      "name": "Dane",
+      "coords": [
+        -89.5036588,
+        43.2509839
+      ],
+      "price": 496000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/dane-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Dane_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Dane-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/dane-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/dane-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Dane_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Dane-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/dane-neighborhood/"
+      }
+    },
+    {
+      "name": "Lodi",
+      "coords": [
+        -89.5290647,
+        43.3154658
+      ],
+      "price": 436000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/lodi-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lodi_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lodi-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lodi-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/lodi-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Lodi_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Lodi-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/lodi-neighborhood/"
+      }
+    },
+    {
+      "name": "Black Earth",
+      "coords": [
+        -89.7446714,
+        43.1328401
+      ],
+      "price": 354000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/black-earth-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Black-Earth_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Black-Earth-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/black-earth-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/black-earth-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Black-Earth_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Black-Earth-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/black-earth-neighborhood/"
+      }
+    },
+    {
+      "name": "Blue Mounds",
+      "coords": [
+        -89.8373685,
+        43.0130572
+      ],
+      "price": 437000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/blue-mounds-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Blue-Mounds_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Blue-Mounds-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/blue-mounds-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/blue-mounds-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Blue-Mounds_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Blue-Mounds-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/blue-mounds-neighborhood/"
+      }
+    },
+    {
+      "name": "Barneveld",
+      "coords": [
+        -89.8967633,
+        43.0208386
+      ],
+      "price": 373000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/barneveld-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Barneveld_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Barneveld-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/barneveld-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/barneveld-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Barneveld_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Barneveld-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/barneveld-neighborhood/"
+      }
+    },
+    {
+      "name": "Brooklyn",
+      "coords": [
+        -89.3738829,
+        42.856965
+      ],
+      "price": 400000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/brooklyn-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Brooklyn_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Brooklyn-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/brooklyn-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/brooklyn-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Brooklyn_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Brooklyn-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/brooklyn-neighborhood/"
+      }
+    },
+    {
+      "name": "Stoughton",
+      "coords": [
+        -89.2276273,
+        42.9241258
+      ],
+      "price": 403000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/stoughton-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Stoughton_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Stoughton-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/stoughton-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/stoughton-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Stoughton_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Stoughton-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/stoughton-neighborhood/"
+      }
+    },
+    {
+      "name": "Evansville",
+      "coords": [
+        -89.3103681,
+        42.7846927
+      ],
+      "price": 379000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/evansville-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Evansville_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Evansville-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/evansville-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/evansville-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Evansville_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Evansville-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/evansville-neighborhood/"
+      }
+    },
+    {
+      "name": "Cambridge",
+      "coords": [
+        -89.0161405,
+        43.0123041
+      ],
+      "price": 430000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/cambridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cambridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cambridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cambridge-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/cambridge-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Cambridge_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Cambridge-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/cambridge-neighborhood/"
+      }
+    },
+    {
+      "name": "Waterloo",
+      "coords": [
+        -88.9986306,
+        43.1900328
+      ],
+      "price": 324000.0,
+      "links": {
+        "zillow": "https://www.zillow.com/waterloo-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Waterloo_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Waterloo-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/waterloo-neighborhood/"
+      },
+      "data_links": {
+        "zillow": "https://www.zillow.com/waterloo-madison-wi/",
+        "realtor": "https://www.realtor.com/realestateandhomes-search/Waterloo_Madison_WI",
+        "redfin": "https://www.redfin.com/zipcode-search/Waterloo-Madison-WI",
+        "homes": "https://www.homes.com/madison-wi/waterloo-neighborhood/"
+      }
+    }
+  ]
+}
